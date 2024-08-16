@@ -2,7 +2,7 @@
 
 ## Objective
 
-The primary objective of this is to implement a custom shell that can handle basic Linux commands, manage processes, handle signals, and support background execution. The shell is built incrementally with various features added step by step.
+The primary objective of this project is to implement a custom shell that can handle basic Linux commands, manage processes, handle signals, and support background execution. The shell is built incrementally with various features added step by step.
 
 ## Features Implemented
 
