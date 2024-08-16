@@ -1,8 +1,4 @@
-# Shell Lab: Building a Simple Shell
-
-## Overview
-
-This repository contains the solution to the "Building a Shell", part of the *Lectures on Operating Systems* course by Mythili Vutukuru at IIT Bombay.
+# Linux Shell: Building a Simple Shell
 
 ## Objective
 
